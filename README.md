@@ -1,2 +1,2 @@
 # flutter_project
-This is the my first flutter project repository
+This is the my first flutter hello world program
